@@ -1,0 +1,67 @@
+ID Produto;categoria produto;preço
+1;agro industria e comercio;155
+2;alimentos;58
+3;artes;84
+4;artes e artesanato;99
+5;artigos de festas;198
+6;artigos de natal;106
+7;audio;82
+8;automotivo;101
+9;bebes;159
+10;bebidas;131
+11;beleza e saude;86
+12;brinquedos;136
+13;cama mesa e banho;171
+14;casa e conforto;108
+15;casa e construcao;179
+16;cds e musicais;84
+17;cine e foto;177
+18;climatizacao;52
+19;consoles e games;168
+20;ferramentas de construcao;95
+21;ferramentas de iluminacao;117
+22;ferramentas de jardim;155
+23;ferramentas de seguranca;83
+24;dvds;88
+25;eletrodomesticos;100
+26;eletronicos;57
+27;eletroportateis;93
+28;esporte e lazer;187
+29;bolsas e acessorios;197
+30;calcados;173
+31;roupa esportiva;176
+32;roupa feminina;192
+33;roupa infanto e juvenil;178
+34;roupa masculina;66
+35;underwear e moda praia;69
+36;flores;130
+37;fraldas e higiene;120
+38;industria comercio e negocios;162
+39;informatica acessorios;190
+40;instrumentos musicais;105
+41;la cuisine;97
+42;livros importados;59
+43;livros tecnicos;55
+44;malas e acessorios;186
+45;market place;105
+46;colchao e estofado;179
+47;moveis da cozinha;69
+48;moveis de decoracao;136
+49;moveis do escritorio;115
+50;moveis do quarto;54
+51;moveis da sala;129
+52;moveis da area de servico;53
+53;musica;88
+54;papelaria;121
+55;pcs;176
+56;perfumaria;63
+57;pet shop;80
+58;portateis da casa;168
+59;portateis da cozinha;74
+60;relogios e presentes;53
+61;seguros e servicos;126
+62;sinalizacao e seguranca;137
+63;tablets impressao e imagem;174
+64;telefonia;163
+65;telefonia fixa;191
+66;utilidades domesticas;161
