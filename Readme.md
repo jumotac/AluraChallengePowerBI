@@ -26,7 +26,7 @@ Desenvolvimento de um dashboard operacional de logística atendendo as necessida
 
 ## BASE DE DADOS:
 
-Foi desponibilizado 4 bases de dados sobre logística: 3 no formato CSV e 1 em Excel sendo essas bases:
+Foi disponibilizado 4 bases de dados sobre logística: 3 no formato CSV e 1 em Excel sendo essas bases:
 
 1. TABELA PEDIDOS - Registro de todos os pedidos feitos pelos clientes;
 2. TABELA PRODUTOS - Cadastros e valores dos produtos;
