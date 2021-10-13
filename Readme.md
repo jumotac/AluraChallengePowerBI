@@ -48,7 +48,7 @@ _Tive que fazer o tratamento em todas as bases de dados antes de importar para o
 ## ⚠️RESULTADO:
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOTAzYWY4YTEtMDhhMS00ZDhjLTgzMzctNzE4NDUwNmJiZGU5IiwidCI6ImQxOTA2ZjA5LWQxZGItNGI0OC1iZmY5LWE4OTU4Mjc3ZjNmZCJ9" target="_blank">
-   <img src='AluraLog/DashboardAluraShop.PNG'/>
+   <img src='AluraLog/DashboardAluraLog.PNG'/>
 </a>
 
 <h1>Semana 02: Desafio de Marketing - AluraShop🛍️</h1>
