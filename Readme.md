@@ -48,7 +48,39 @@ _Tive que fazer o tratamento em todas as bases de dados antes de importar para o
 ## ⚠️RESULTADO:
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOTAzYWY4YTEtMDhhMS00ZDhjLTgzMzctNzE4NDUwNmJiZGU5IiwidCI6ImQxOTA2ZjA5LWQxZGItNGI0OC1iZmY5LWE4OTU4Mjc3ZjNmZCJ9" target="_blank">
-   <img src='AluraLog/DashboardAluraLog.PNG'/>
+   <img src='AluraLog/DashboardAluraShop.PNG'/>
+</a>
+
+<h1>Semana 02: Desafio de Marketing - AluraShop🛍️</h1>
+
+Desenvolvimento de um dashboard estratégico para monitorar a campanha de **marketing** durante um mês.
+
+## BASE DE DADOS:
+
+Foi disponibilizado 2 tabelas no formato JSON:
+
+1. TABELA DISPOSITIVOS - Contém inofrmaçoes de acessos por dispositivo;
+2. TABELA IDADE E GÊNERO - Contém informações de pessoas que acessaram a página e realizaram ou não compras.
+
+_3.TABELA DE ATUALIZAÇÃO - Foi inclusa por mim para termos a informaçao da última atualização_ 
+
+
+## MÉTRICAS ANALISADAS:
+1) Calcular o total de compras; 
+2) Calcular o total de valor convertido em compras;
+3) Mostrar o total do valor investido na campanha;
+4) Calcular o custo por clique;
+5) Exibir a jornada de compra;
+6) Calcular a taxa de conversão;
+7) Mostrar o ticket médio por dispositivo;
+8) Mostrar Retorno do investimento em publicidade (ROAS) por idade e gênero;
+9) Calcular o valor convertido em compras por dia;
+
+
+## ⚠️RESULTADO:
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTFkMTc2NWMtZTFkYi00NGUzLWIyMDEtODFlMzI4OGQxZGQ2IiwidCI6ImQxOTA2ZjA5LWQxZGItNGI0OC1iZmY5LWE4OTU4Mjc3ZjNmZCJ9" target="_blank">
+   <img src='AluraLog/DashboardAluraShop.PNG'/>
 </a>
 
 
