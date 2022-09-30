@@ -1,6 +1,6 @@
 | :placard: Vitrine.Dev |     |
 | ------------- | --- |
-| :sparkles: Nome | ALURA: CHALLENGE BI 1ª EDIÇÃO - **AluraLog e AluraShop** 
+| :sparkles: Nome | Alura Challenge BI 1ª Edição - **AluraLog e AluraShop** 
 | :label: Tecnologias | SQL, POWER BI, EXCEL 
 | :rocket: URL | https://app.powerbi.com/view?r=eyJrIjoiOTAzYWY4YTEtMDhhMS00ZDhjLTgzMzctNzE4NDUwNmJiZGU5IiwidCI6ImQxOTA2ZjA5LWQxZGItNGI0OC1iZmY5LWE4OTU4Mjc3ZjNmZCJ9
 | :fire: Desafio | Desenvolvimento de dashboards de logística, marketing e financeiro
