@@ -1,4 +1,14 @@
-<h1>Edição #3: Alura Challenge BI</h1>
+| :placard: Vitrine.Dev |     |
+| ------------- | --- |
+| :sparkles: Nome | ALURA: CHALLENGE BI 1ª EDIÇÃO - **AluraLog e AluraShop** 
+| :label: Tecnologias | SQL, POWER BI, EXCEL 
+| :rocket: URL | https://app.powerbi.com/view?r=eyJrIjoiOTAzYWY4YTEtMDhhMS00ZDhjLTgzMzctNzE4NDUwNmJiZGU5IiwidCI6ImQxOTA2ZjA5LWQxZGItNGI0OC1iZmY5LWE4OTU4Mjc3ZjNmZCJ9
+| :fire: Desafio | Desenvolvimento de dashboards de logística, marketing e financeiro
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/jumotac/AluraChallengePowerBI/master/AluraLog/DashboardAluraLog.PNG#vitrinedev)
+
+<h1>Edição #1: Alura Challenge BI</h1>
 
 Desenvolvimento de dashboards de logística, marketing e financeiro com a utilização de conceitos e técnicas de BI, com **Power BI** para os alunos da Alura pelo período de 4 semanas. 
 
@@ -83,4 +93,9 @@ _3.TABELA DE ATUALIZAÇÃO - Foi inclusa por mim para termos a informaçao da ú
    <img src='AluraShop/DashboardAluraShop.PNG'/>
 </a>
 
+### :heart:Agradecimentos:  
 
+  - [Alura](www.alura.com.br)   
+
+
+<p align="center">Desenvolvido 💗 por <a href="https://github.com/jumotac">Ju Mota</a></p>
